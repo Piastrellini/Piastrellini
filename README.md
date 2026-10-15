@@ -19,4 +19,7 @@ Soy estudiante de la **Tecnicatura en Programación en Sistemas** (UCES, Argenti
   Proyecto web grupal de Programación Web I (equipo de 4). Trabajo con ramas por rol, pull requests y code reviews. Me tocó documentar y testear (plan de QA y test cases) y luego coordinar el repositorio (DevOps).
   [Ver repositorio](https://github.com/angelgc9107-lgtm/ProyectoFerreteria_GRP05)
 
-  
+  ## Idiomas
+
+- **Español:** nativo
+- **Inglés:** preparando el examen Cambridge B1 Preliminary (PET), previsto para 2027
