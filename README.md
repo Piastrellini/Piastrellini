@@ -4,7 +4,7 @@ Soy estudiante de la **Tecnicatura en Programación en Sistemas** (UCES, Argenti
 
 ## Stack
 
-- **Lenguajes:** Java · SQL · HTML · CSS · JavaScript
+- **Lenguajes:** Java · SQL · HTML · CSS · C#
 - **Herramientas:** Git y GitHub · VS Code · NetBeans · Visual Studio · SQL Server / SSMS · MySQL Workbench · PlantUML
 - **Diseño:** Figma · UX/UI · Wireframing
 - **Fundamentos:** Diseño orientado a objetos · Modelado de bases de datos · Normalización · Consultas SQL · Trabajo en equipo
