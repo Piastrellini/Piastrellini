@@ -1,7 +1,7 @@
 # Hola, soy Thiago Piastrellini
 
 Soy estudiante de la **Tecnicatura en Programación en Sistemas** (UCES, Argentina). Me interesa el desarrollo de software completo: desde el diseño de la base de datos hasta cómo se ve y se usa la pantalla final.
-Combino lógica de programación (Java, diseño orientado a objetos) con una mirada de diseño (UX/UI en Figma), y me encuentro sumando desarrollo web con HTML, CSS, JavaScript y Bootstrap.
+Combino lógica de programación (Java, diseño orientado a objetos, programación orientada a objetos) con una mirada de diseño (UX/UI en Figma), y me encuentro sumando C# (POO), desarrollo web con HTML, CSS, JavaScript y Bootstrap.
 
 ## Stack
 
